@@ -1,14 +1,3 @@
-# Demo Ethereum Dapp to deposit your assets on Ethereum.
-
-
-This Dapp illustrates a Dapp using the following technologies:
-* Truffle 5
-* web3.js 1.0
-* React
-* Redux
-* Drizzle
-* ERC-20 (OpenZeppelin implementation)
-* IPFS
 
 ## Step 1: Start IPFS locally
 
