@@ -1,7 +1,8 @@
 {
-  "name": "depositum",
+  "name": "react-web3",
   "version": "0.1.0",
   "private": true,
+  "author": 'Dream High <dreamhigh0822@outlook.com>',
   "dependencies": {
     "@material-ui/core": "^3.5.1",
     "@material-ui/icons": "^3.0.1",
